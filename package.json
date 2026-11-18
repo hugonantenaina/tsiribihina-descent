@@ -1,0 +1,12 @@
+{
+  "name": "tsiribihina-descent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "deploy": "node build.mjs && gh-pages -d dist --dotfiles"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
