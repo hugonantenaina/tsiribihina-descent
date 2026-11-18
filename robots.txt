@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hugonantenaina.github.io/tsiribihina-descent/sitemap.xml
